@@ -22,6 +22,7 @@ make %{?_smp_mflags}
 %make_install
 
 %files
+%license COPYING
 %defattr(-,root,root,-)
 /usr//sbin/bootchartd
 %{_datadir}/doc/bootchart/bootchartd.conf.example
