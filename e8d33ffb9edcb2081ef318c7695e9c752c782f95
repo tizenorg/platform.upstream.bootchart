@@ -1,0 +1,8 @@
+Change-Id: Ie8d33ffb9edcb2081ef318c7695e9c752c782f95
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 10:05:35 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4677
+Project: platform/upstream/bootchart
+Branch: refs/heads/tizen
